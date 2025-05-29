@@ -21,4 +21,10 @@
   <p>Menu includes sliders for gravity, drag strength, and air resistance
   <hr>
   <p>Reset; self explainatory, just resets the simulation
+  <hr>
 </h5>
+<h3>
+  <b>HOW TO PLAY</b>
+</h3>
+  <p>Download the .html file and run it in a modern browser that runs HTML5
+</h3>
